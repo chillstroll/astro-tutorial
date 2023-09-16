@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+https://playground-astro.netlify.app
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
